@@ -4,7 +4,7 @@
 - It is used as a hypothesis testing tool, which allows testing of an assumption applicable to datasets.
 
 ## Steps involved in the T-test
-
+<img width="744" alt="Screenshot 2021-10-19 at 2 52 09 AM" src="https://user-images.githubusercontent.com/44245211/137817715-d1657b50-4081-46df-9d72-ba1c86fbf394.png">
 
 ## T-test Performed on the Following Studies
 1. To compare the agricultural yield of two barley produce batches. The first batch was produced under natural conditions the second batch was produced in a greenhouse.
@@ -20,6 +20,8 @@ Paired t-tests are considered more powerful than unpaired t-tests because using 
 ## Variations in the T-test explored
 1. Two-tailed hypothesis tests: are also known as nondirectional and two-sided tests because you can test for variations in both directions. When you perform a two-tailed test, you split the significance level percentage between both tails of the distribution.
 2. One-tailed hypothesis tests: are also known as directional and one-sided tests because you can test for variations in only one direction. When you perform a one-tailed test, the entire significance level percentage goes into the extreme end of one tail of the distribution.
+<img width="515" alt="Screenshot 2021-10-19 at 2 58 05 AM" src="https://user-images.githubusercontent.com/44245211/137817775-941d95e9-7e29-415c-b859-e00afabbc10a.png"> <img width="498" alt="Screenshot 2021-10-19 at 2 58 32 AM" src="https://user-images.githubusercontent.com/44245211/137817779-1110e1a8-d0da-45ff-ad20-e905045976a2.png">
+
 
 # Directory Structure
 - ```src``` folder contains the source code. 
