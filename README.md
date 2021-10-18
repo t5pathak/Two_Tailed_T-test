@@ -23,9 +23,7 @@ Paired t-tests are considered more powerful than unpaired t-tests because using 
 ## Variations in the T-test explored
 1. Two-tailed hypothesis tests: are also known as nondirectional and two-sided tests because you can test for variations in both directions. When you perform a two-tailed test, you split the significance level percentage between both tails of the distribution.
 2. One-tailed hypothesis tests: are also known as directional and one-sided tests because you can test for variations in only one direction. When you perform a one-tailed test, the entire significance level percentage goes into the extreme end of one tail of the distribution.
-<img width="250" alt="Screenshot 2021-10-19 at 2 58 32 AM" src="https://user-images.githubusercontent.com/44245211/137817996-d81af612-e620-4735-b7ba-fb849410714a.png"><img width="250" alt="Screenshot 2021-10-19 at 2 58 05 AM" src="https://user-images.githubusercontent.com/44245211/137818003-450fee7f-bf57-4d9d-93d5-c27447d920f3.png">
-
-
+<img width="250" alt="Screenshot 2021-10-19 at 2 58 32 AM" src="https://user-images.githubusercontent.com/44245211/137817996-d81af612-e620-4735-b7ba-fb849410714a.png"><img width="239" alt="Screenshot 2021-10-19 at 2 58 05 AM" src="https://user-images.githubusercontent.com/44245211/137818184-4b6e4ab7-47b5-435f-90dd-4c52426b1b98.png">
 
 # Directory Structure
 - ```src``` folder contains the source code. 
