@@ -4,7 +4,10 @@
 - It is used as a hypothesis testing tool, which allows testing of an assumption applicable to datasets.
 
 ## Steps involved in the T-test
-<img width="744" alt="Screenshot 2021-10-19 at 2 52 09 AM" src="https://user-images.githubusercontent.com/44245211/137817715-d1657b50-4081-46df-9d72-ba1c86fbf394.png">
+<p align="center">
+ <img width="744" alt="Screenshot 2021-10-19 at 2 52 09 AM" src="https://user-images.githubusercontent.com/44245211/137817715-d1657b50-4081-46df-9d72-ba1c86fbf394.png">
+</p>
+
 
 ## T-test Performed on the Following Studies
 1. To compare the agricultural yield of two barley produce batches. The first batch was produced under natural conditions the second batch was produced in a greenhouse.
